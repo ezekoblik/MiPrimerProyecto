@@ -1,0 +1,215 @@
+
+body {
+    font-family: 'Architects Daughter', cursive;
+    margin: 0;
+
+}
+
+.conteiner {
+    background-image: url(../images/ddd.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    background-attachment: fixed;
+}
+
+.navbar {
+    width: 80vw;
+    height: 50px;
+    background: transparent;
+    border-radius: 10px;
+    color: rgb(20,20,20)
+    border 1px rgba(255, 217, 0, 0.664) solid;
+    box-shadow: 0px 0px 8px 2px rgba(255, 217, 0, 0.664);
+}
+
+.lista {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.principal {  
+    width: 500px; 
+    height: 450px;
+    background: transparent;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+.second {
+    background: transparent;
+    margin: 10px 10px 10px 10px;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: wheat;
+}
+
+.item {
+    padding: 5px;
+}
+
+.imagenes {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin: auto;
+}
+
+hr {
+   margin-top: 60px;
+   background-color: rgba(255, 217, 0, 0.664);
+   width: 75%;
+   height: 5px;
+   border-radius: 10px;
+   box-shadow: 0px 0px 4px 2px silver;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.image {
+    width: 33%;
+    height: 50px;
+    padding: 10px;
+}
+
+.micro {
+    width: 33%;
+    height: 50px;
+    padding: 10px
+}
+
+.cd {
+    width: 33%;
+    height: 50px;
+    padding: 10px
+}
+
+.parrafo {
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.pie {
+    margin-top: 20px;
+    width: 100vw;
+    height: auto;
+    background-color: silver;
+    display: flex;
+}
+
+.link {
+    text-decoration: none;
+    color: silver;
+}
+
+.link2 {
+    text-decoration: none;
+    color: black;
+}
+
+.social {
+    width: 50%;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.formulario {
+    width: 50%;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.age {
+    text-align: left;
+
+}
+
+.logos {
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.icons {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.radio {
+    display: inline;
+    margin: 10px;
+}
+
+.send {
+    margin: auto;
+    padding: 5px;
+}
+
+input {
+    border-radius: 10px;
+    border: 1px;
+}
+
+textarea {
+    border-radius: 10px;
+    border: 1px;
+}

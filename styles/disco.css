@@ -1,0 +1,134 @@
+
+.conteinerdisco {
+    margin-top: 0px;
+    width: 100vw;
+    height: auto;
+}
+
+.disc {
+    font-size: 50px;
+    text-align: center;
+}
+
+.portada {
+    width: 600px;
+    height: 750px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/homework.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+
+}
+
+.titulo {
+    width: 575px;
+    height: 50px;
+    margin: 5px;
+}
+
+.contenidodisc {
+    width: 575px;
+    height: 525px;
+    margin: 5px;
+}
+
+.song {
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    margin: 40px 15px 5px 30px;
+}
+
+.nombre {
+    font-size: 30px;
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+    line-height: 2px;
+    padding: 5px;
+}
+
+.portada2 {
+    width: 600px;
+    height: 750px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/discovery.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+}
+
+.portada3 {
+    width: 600px;
+    height: 600px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/daftclub.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+}
+
+.portada4 {
+    width: 600px;
+    height: 600px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/human.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+}
+
+.portada5 {
+    width: 600px;
+    height: 600px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/musiquevol1.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+}
+
+.portada6 {
+    width: 600px;
+    height: 600px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/alive.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+}
+
+.portada7 {
+    width: 600px;
+    height: 750px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/tron.jpg);
+    background-position: center;
+    background-size: cover;
+    color: wheat;
+    display: inline-block;
+}
+
+.portada8 {
+    width: 600px;
+    height: 750px;
+    margin: 20px 10px 10px 10px;
+    background-image: url(../images/random.jpeg);
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    color: wheat;
+}
